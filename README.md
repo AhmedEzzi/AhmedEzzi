@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhmedEzzi
 - 👀 I would say that im Mobile engineer
 
-![trophy](https://github-profile-trophy.vercel.app/?username=AhmedEzzi)
+
 ![Ahmed Ezz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedEzzi&show_icons=true&theme=radical)
 <!---
 AhmedEzzi/AhmedEzzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
